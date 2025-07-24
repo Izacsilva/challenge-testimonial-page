@@ -50,4 +50,15 @@ ul {
     font-size: 1.25rem;
     line-height: 2.25rem;
     color: lightslategrey;
+    margin-bottom: 2.25rem;
 }
+
+.container-checklist {
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  color: lightslategrey;
+  margin-bottom: 2.25rem;
+}
+
